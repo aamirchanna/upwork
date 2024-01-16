@@ -2,10 +2,15 @@
 .header1,li{
    
     display: inline-block;
-    padding-right:  40px;
+    padding-right:  20px;
     margin:  auto;
+    padding-top: 15px;
+    /* font-size: 20px; */
     
 } 
+.header1 li select{
+    font-size: 20px;
+}
 .space{ 
     display: inline-block;
     padding-right: 300px;
